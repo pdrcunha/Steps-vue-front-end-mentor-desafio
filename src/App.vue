@@ -161,7 +161,7 @@ main {
     border-radius: 15px;
     position: absolute;
     right: 50%;
-    top: 190px;
+    top: 271px;
     width: 300px;
     transform: translateX(50%);
     min-height: 400px;
